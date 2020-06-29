@@ -12,7 +12,7 @@ MYSQL_RES* sql_result;
 MYSQL_ROW sql_row;
 const char* host = "localhost";
 const char* user = "root";
-const char* pw = "thsldk0520";
+const char* pw = "password";
 const char* db = "delivery_system";
 char drop_sql[10][1000] = { 0, };
 
