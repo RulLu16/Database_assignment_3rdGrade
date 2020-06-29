@@ -1,0 +1,13 @@
+Customer name	Address-city	street	Amount
+lucy		mapo		shinchon		57000
+
+======================================================================
+Customer name	Pay type	Address-city	street	Amount
+lucy		prepaid		mapo		shinchon		21000
+lucy		infrequent		mapo		shinchon		36000
+
+======================================================================
+Package ID	Cost	Package type	Pay type	Delivery complete
+000407		21000		envelope		prepaid		complete
+000408		36000		envelope		infrequent		complete
+
